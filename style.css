@@ -1,0 +1,46 @@
+        #insta {
+            background: linear-gradient(135deg, #f58529, #dd2a7b, #8134af, #515bd4);
+            border-color: transparent;
+            color: #fff;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        #insta svg,
+        #wsp svg,
+        #git svg {
+            width: 20px;
+            height: 20px;
+            fill: currentColor;
+        }
+
+        #git {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        #wsp {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            border: 2px solid #00bfff;
+            box-shadow: 0 0 8px rgba(0, 191, 255, 0.9),
+                        0 0 20px rgba(0, 128, 255, 0.7);
+            animation: wsp-glow 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes wsp-glow {
+            from {
+                box-shadow: 0 0 8px rgba(0, 191, 255, 0.9),
+                            0 0 20px rgba(0, 128, 255, 0.7);
+            }
+            to {
+                box-shadow: 0 0 14px rgba(0, 229, 255, 1),
+                            0 0 30px rgba(0, 102, 255, 0.9);
+            }
+        }
