@@ -9,14 +9,19 @@ Me envías una imagen de tu lista de precios de tu negocio, más tu contacto en 
 Y te creo un sitio web con tu imagen y botón de contacto directo a tu WhatsApp.
 
 ## Precios
-- $25.000 Sitio + imagen QR de tu sitio
-- $10.000 por cada Red Social adicional
-- $15.000 por mejoras adicionales al sitio
+- Desde $60.000 Sitio de catalogo + contacto a whatsapp + imagen QR de tu sitio
+- Desde $25.000 MicroSitio +  contacto a whatsapp +  + imagen QR de tu sitio
+- Desde $5.000 por cada Red Social adicional
+- Desde $10.000 por mejoras adicionales al sitio
 
-## Beneficos
+## Beneficios
 - Sitio público y seguro
 - Sin suscripción
 - Sin crear cuenta
 - No necesita mantenimiento
 - Sitio rápido de cargar
 - Se paga una sola vez
+
+  ## Mensaje
+  - Atrae nuevos cliente a un click
+  - Activa tu negocio
