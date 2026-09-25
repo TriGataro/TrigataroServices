@@ -2,7 +2,7 @@
 Flyer publicitario
 
 
-# ¡Micrositos con contacto directo a WhatsApp!
+# ¡Sitios Publicitarios con contacto directo a WhatsApp!
 
 ## ¿Cómo funciona?
 Me envías una imagen de tu lista de precios de tu negocio, más tu contacto en WhatsApp.
